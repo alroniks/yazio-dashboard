@@ -33,7 +33,7 @@
     "react-day-picker": "^8.10.1",
     "react-dom": "^18.3.1",
     "tailwind-variants": "^2.1.0",
-    "tailwindcss": "^3.4.17",
+    "tailwindcss": "^4.1.12",
     "tsx": "^4.20.4",
     "yazio": "^1.1.3"
   },
